@@ -2,6 +2,7 @@
 ![Steps](image.png)
 
 <h4> Configure env:</h4>
+<code>
 Steps/Configurations/cmds:
 vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ touch MakeFile
 @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ touch requirements.txt
@@ -59,3 +60,4 @@ To https://github.com/vamshikrish007/python-for-deveops-june28
    a7db7ed..4287e36  main -> main
 (.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ 
 
+</code>

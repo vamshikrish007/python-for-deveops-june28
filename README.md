@@ -1,7 +1,7 @@
 <h4>Will learn the step by step implementation of deveops using Python, Microservices, Aws and Git</h4>touch
 ![Steps](image.png)
-
 <h4> Configure env:</h4>
+<br>
 <code>
 Steps/Configurations/cmds:
 vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ touch MakeFile
@@ -16,9 +16,10 @@ created virtual environment CPython3.10.8.final.0-64 in 1397ms
     added seed packages: pip==23.1.2, setuptools==67.7.2, wheel==0.40.0
   activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
 @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ edit ~/.bashrc
-
+</code>
+<br>
 Verify the conffigurations my selecting new terminal execute the following cms:
-
+<code>
 (.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ which python
 /home/codespace/.venv/bin/python
 (.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ git status
@@ -58,6 +59,5 @@ Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/vamshikrish007/python-for-deveops-june28
    a7db7ed..4287e36  main -> main
-(.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ 
-
+(.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $
 </code>

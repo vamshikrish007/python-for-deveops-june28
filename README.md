@@ -1,10 +1,7 @@
 <h4>Will learn the step by step implementation of deveops using Python, Microservices, Aws and Git</h4>touch
 ![Steps](image.png)
 <h4> Configure env:</h4>
-<br>
-<code>
-Steps/Configurations/cmds:
-vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ touch MakeFile
+<code>vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ touch MakeFile
 @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ touch requirements.txt
 @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ mkdir deveopslib
 @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ touch deveopslib/__init__.py
@@ -19,13 +16,12 @@ created virtual environment CPython3.10.8.final.0-64 in 1397ms
 </code>
 <br>
 Verify the conffigurations my selecting new terminal execute the following cms:
-<code>
-(.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ which python
+
+<code>(.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ which python
 /home/codespace/.venv/bin/python
 (.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $ git status
 On branch main
 Your branch is up to date with 'origin/main'.
-
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
@@ -59,5 +55,4 @@ Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/vamshikrish007/python-for-deveops-june28
    a7db7ed..4287e36  main -> main
-(.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $
-</code>
+(.venv) @vamshikrish007 ➜ /workspaces/python-for-deveops-june28 (main) $</code>
